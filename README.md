@@ -8,11 +8,11 @@ rspec -- init
 
 npm install -g json-server
 
-## criar arquivo json
+## Criar arquivo json
 
 mkdir info.json
 
-## subindo server 
+## Subindo server 
 	
 json-server info.json
 
