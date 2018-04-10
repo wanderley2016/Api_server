@@ -2,7 +2,7 @@
 
 ## Criando estruturas de pastas 
 
-rspec -- init 
+rspec --init 
 
 ## Instalando server
 
@@ -16,4 +16,6 @@ mkdir info.json
 	
 json-server info.json
 
+## executando os testes
 
+rspec spec/<name_spec>.rb
