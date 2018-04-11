@@ -1,13 +1,14 @@
 # Api_server
 
 ## Criando estruturas de pastas 
-rspec --init 
 
-bundle init        # gerar o arquivo Gemfile
+rspec --init 
+```
+bundle init                   # gerar o arquivo Gemfile
 ```
 
 Abrir o arquivo Gemfile e adicionar as gems:
-
+```
 gem "rspec"
 gem "httparty"
 ```
