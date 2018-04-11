@@ -4,18 +4,18 @@
 
 rspec --init 
 
-## Instalando server
+### Instalando server
 
 npm install -g json-server
 
-## Criar arquivo json
+### Criar arquivo json
 
-touch info.json      # criar na raiz do projeto
+touch info.json                  #criar na raiz do projeto
  
-## Subindo server 
+### Subindo server 
 	
 json-server info.json
 
-## executando os testes
+### executando os testes
 
 rspec spec/<name_spec>.rb
