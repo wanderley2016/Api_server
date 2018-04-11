@@ -23,15 +23,15 @@ npm install -g json-server
 ```
 
 ## Criar arquivo json
-
+```
 touch info.json                              #criar na raiz do projeto
-
+```
 ## Subindo server 
-
+```
 json-server info.json
 ```
 O resultado será: 
-
+```
   \{^_^}/ hi!
 
   Loading info.json
