@@ -10,8 +10,8 @@ npm install -g json-server
 
 ## Criar arquivo json
 
-mkdir info.json
-
+touch info.json      # criar na raiz do projeto
+ 
 ## Subindo server 
 	
 json-server info.json
