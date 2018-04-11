@@ -13,12 +13,12 @@ gem "rspec"
 gem "httparty"
 ```
 No terminal executar o comando:
-
+```
 bundle install
 ```
 
 ## Instalando server
-
+```
 npm install -g json-server
 ```
 
