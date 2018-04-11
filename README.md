@@ -4,6 +4,7 @@
 ```
 rspec --init 
 ```
+```
 bundle init                    # gerar o arquivo Gemfile
 ```
 
