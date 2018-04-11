@@ -45,9 +45,9 @@ O resultado será:
 
   Type s + enter at any time to create a snapshot of the database
 ```
-##executando os testes
+## executando os testes
 
 Abra uma nova aba e digite o comando abaixo:
-
+```
 rspec spec/<name_spec>.rb
 ```
