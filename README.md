@@ -1,10 +1,10 @@
 # Api_server
 
 ## Criando estruturas de pastas 
-
+```
 rspec --init 
 ```
-bundle init                   # gerar o arquivo Gemfile
+bundle init                    # gerar o arquivo Gemfile
 ```
 
 Abrir o arquivo Gemfile e adicionar as gems:
@@ -24,7 +24,7 @@ npm install -g json-server
 
 ## Criar arquivo json
 ```
-touch info.json                              #criar na raiz do projeto
+touch info.json                # criar na raiz do projeto
 ```
 ## Subindo server 
 ```
